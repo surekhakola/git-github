@@ -1,1 +1,2 @@
-# git-github
+# git-github\
+this is for project purpose
